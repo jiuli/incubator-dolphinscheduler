@@ -74,7 +74,7 @@ services:
     environment:
       TZ: Asia/Shanghai
       DATABASE_HOST: dolphinscheduler-mysql
-      DATABASE_PORT: 5432
+      DATABASE_PORT: 3306
       DATABASE_USERNAME: root
       DATABASE_PASSWORD: root
       DATABASE_DATABASE: dolphinscheduler
@@ -137,7 +137,7 @@ services:
       ENTERPRISE_WECHAT_AGENT_ID: ""
       ENTERPRISE_WECHAT_USERS: ""
       DATABASE_HOST: dolphinscheduler-mysql
-      DATABASE_PORT: 5432
+      DATABASE_PORT: 3306
       DATABASE_USERNAME: root
       DATABASE_PASSWORD: root
       DATABASE_DATABASE: dolphinscheduler
@@ -170,7 +170,7 @@ services:
       MASTER_MAX_CPULOAD_AVG: "100"
       MASTER_RESERVED_MEMORY: "0.1"
       DATABASE_HOST: dolphinscheduler-mysql
-      DATABASE_PORT: 5432
+      DATABASE_PORT: 3306
       DATABASE_USERNAME: root
       DATABASE_PASSWORD: root
       DATABASE_DATABASE: dolphinscheduler
@@ -207,7 +207,7 @@ services:
       WORKER_WEIGHT: "100"
       DOLPHINSCHEDULER_DATA_BASEDIR_PATH: "/tmp/dolphinscheduler"
       DATABASE_HOST: dolphinscheduler-mysql
-      DATABASE_PORT: 5432
+      DATABASE_PORT: 3306
       DATABASE_USERNAME: root
       DATABASE_PASSWORD: root
       DATABASE_DATABASE: dolphinscheduler
