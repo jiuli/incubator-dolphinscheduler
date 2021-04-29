@@ -1,5 +1,7 @@
 1.3.2版本，解决使用docker部署dolphinscheduler默认配置，工作流不能更改的问题，使用mysql替代postgresql
 https://user-images.githubusercontent.com/4122723/95653154-f3188580-0b28-11eb-8461-abac77effc1e.png
+![image](https://user-images.githubusercontent.com/4122723/116534408-0ea47b80-a915-11eb-9c3b-c343fe4a3a98.png)
+
 
 
 Dolphin Scheduler Official Website
